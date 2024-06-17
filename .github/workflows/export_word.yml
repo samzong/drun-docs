@@ -1,0 +1,31 @@
+name: Build and Upload Artifact
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Build project
+      run: |
+        # 基础环境
+        apt update
+        apt install pandoc
+        pip3 install python-docx docxcompose
+        
+    - name: Build docs
+      run: |
+        # 你的构建命令
+        python3 scripts/md2doc-v2.py docs/zh/docs
+        python3 scripts/md2doc-v2.py docs/en/docs
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: build-output
+        path: docs/*.docx
