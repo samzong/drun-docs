@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://docs.d.run/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/rel-notes.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/rel-notes.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/rel-notes.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0326-compute-power.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0326-compute-power.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0326-compute-power.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0327-transformer.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0327-transformer.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0327-transformer.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0403-cp-to-profit.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0403-cp-to-profit.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0403-cp-to-profit.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0407-dbrx.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0407-dbrx.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0407-dbrx.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0408-after-kimi.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0408-after-kimi.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0408-after-kimi.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0410-cnai-wp.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0410-cnai-wp.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0410-cnai-wp.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0429-ai-survey.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0429-ai-survey.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0429-ai-survey.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0509-model-spec.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0509-model-spec.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0509-model-spec.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0514-gpt4o.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0514-gpt4o.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0514-gpt4o.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/0702-k8s-for-genai.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0702-k8s-for-genai.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0702-k8s-for-genai.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2024/d.run.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/d.run.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/d.run.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/blogs/2025/0102-ai-trend.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2025/0102-ai-trend.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2025/0102-ai-trend.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/contact/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/contact/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/contact/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/features.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/features.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/features.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/data-analysis/number-of-qa.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/number-of-qa.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/number-of-qa.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/data-analysis/qa-quality.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/qa-quality.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/qa-quality.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/data-analysis/shard-hit-ratio.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/shard-hit-ratio.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/shard-hit-ratio.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/data-analysis/shard-quality.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/shard-quality.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/shard-quality.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/data-analysis/suggestions.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/suggestions.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/suggestions.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/my-feedback/my-feedback.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/my-feedback/my-feedback.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/my-feedback/my-feedback.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/system-config.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/system-config.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/system-config.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/app-center/conversation.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/app-center/conversation.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/app-center/conversation.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/app-center/create-app.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/app-center/create-app.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/app-center/create-app.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/corpus/create-corpus.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/create-corpus.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/create-corpus.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/corpus/format-update.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/format-update.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/format-update.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/corpus/image-upload.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/image-upload.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/image-upload.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/corpus/manage-corpus.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/manage-corpus.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/manage-corpus.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/corpus/manual.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/manual.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/manual.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/corpus/upload-date.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/upload-date.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/upload-date.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/dak/user-guide/plugins/create-plugin.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/plugins/create-plugin.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/plugins/create-plugin.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/leopard/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/leopard/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/leopard/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/leopard/bills.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/leopard/bills.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/leopard/bills.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/leopard/orders.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/leopard/orders.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/leopard/orders.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/leopard/transactions.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/leopard/transactions.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/leopard/transactions.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/api-call.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/api-call.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/api-call.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/apikey.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/apikey.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/apikey.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/deploy.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/deploy.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/deploy.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/exp.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/exp.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/exp.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/service.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/service.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/service.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/user-guides/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/user-guides/bob-translate.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/bob-translate.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/bob-translate.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/user-guides/cherry-studio.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/cherry-studio.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/cherry-studio.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/user-guides/cline-in-vscode.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/cline-in-vscode.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/cline-in-vscode.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/models/user-guides/lobe-chat.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/lobe-chat.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/lobe-chat.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/hardware/huawei.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/hardware/huawei.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/hardware/huawei.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/hardware/illuvatar.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/hardware/illuvatar.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/hardware/illuvatar.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/hardware/nvidia.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/hardware/nvidia.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/hardware/nvidia.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/models/china.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/china.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/china.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/models/claude.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/claude.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/claude.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/models/huggingface.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/huggingface.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/huggingface.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/models/moonshot.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/moonshot.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/moonshot.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/models/openai.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/openai.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/openai.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/models/zhipuai.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/zhipuai.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/zhipuai.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/aispeech.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/aispeech.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/aispeech.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/alibaba.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/alibaba.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/alibaba.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/baichuan.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/baichuan.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/baichuan.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/baidu.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/baidu.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/baidu.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/bytedance.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/bytedance.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/bytedance.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/cloudwalk.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/cloudwalk.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/cloudwalk.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/hw99.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/hw99.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/hw99.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/iflytek.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/iflytek.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/iflytek.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/megvii.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/megvii.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/megvii.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/sensetime.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/sensetime.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/sensetime.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/tencent.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/tencent.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/tencent.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/tusimple.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/tusimple.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/tusimple.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/open/pioneers/unisound.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/unisound.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/unisound.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/personal/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/personal/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/personal/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/personal/accesstoken.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/personal/accesstoken.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/personal/accesstoken.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/personal/language.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/personal/language.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/personal/language.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/service/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/service/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/service/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/service/miner.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/service/miner.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/service/miner.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/service/name.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/service/name.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/service/name.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/service/sla.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/service/sla.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/service/sla.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/zestu/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/index.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/zestu/deepseek.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/deepseek.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/deepseek.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/zestu/instance-on-off.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/instance-on-off.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/instance-on-off.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/zestu/instance.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/instance.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/instance.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/zestu/storage.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/storage.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/storage.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/rel-notes.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/rel-notes.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/rel-notes.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0326-compute-power.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0326-compute-power.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0326-compute-power.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0327-transformer.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0327-transformer.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0327-transformer.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0403-cp-to-profit.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0403-cp-to-profit.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0403-cp-to-profit.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0407-dbrx.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0407-dbrx.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0407-dbrx.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0408-after-kimi.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0408-after-kimi.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0408-after-kimi.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0410-cnai-wp.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0410-cnai-wp.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0410-cnai-wp.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0429-ai-survey.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0429-ai-survey.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0429-ai-survey.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0509-model-spec.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0509-model-spec.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0509-model-spec.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0514-gpt4o.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0514-gpt4o.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0514-gpt4o.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/0702-k8s-for-genai.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/0702-k8s-for-genai.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/0702-k8s-for-genai.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2024/d.run.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2024/d.run.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2024/d.run.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/blogs/2025/0102-ai-trend.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/blogs/2025/0102-ai-trend.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/blogs/2025/0102-ai-trend.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/contact/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/contact/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/contact/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/features.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/features.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/features.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/data-analysis/number-of-qa.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/number-of-qa.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/number-of-qa.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/data-analysis/qa-quality.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/qa-quality.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/qa-quality.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/data-analysis/shard-hit-ratio.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/shard-hit-ratio.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/shard-hit-ratio.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/data-analysis/shard-quality.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/shard-quality.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/shard-quality.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/data-analysis/suggestions.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/data-analysis/suggestions.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/data-analysis/suggestions.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/my-feedback/my-feedback.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/my-feedback/my-feedback.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/my-feedback/my-feedback.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/system-config.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/system-config.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/system-config.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/app-center/conversation.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/app-center/conversation.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/app-center/conversation.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/app-center/create-app.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/app-center/create-app.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/app-center/create-app.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/corpus/create-corpus.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/create-corpus.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/create-corpus.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/corpus/format-update.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/format-update.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/format-update.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/corpus/image-upload.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/image-upload.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/image-upload.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/corpus/manage-corpus.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/manage-corpus.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/manage-corpus.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/corpus/manual.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/manual.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/manual.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/corpus/upload-date.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/corpus/upload-date.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/corpus/upload-date.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/dak/user-guide/plugins/create-plugin.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/dak/user-guide/plugins/create-plugin.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/dak/user-guide/plugins/create-plugin.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/leopard/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/leopard/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/leopard/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/leopard/bills.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/leopard/bills.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/leopard/bills.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/leopard/orders.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/leopard/orders.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/leopard/orders.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/leopard/transactions.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/leopard/transactions.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/leopard/transactions.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/apikey.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/apikey.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/apikey.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/deploy.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/deploy.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/deploy.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/exp.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/exp.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/exp.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/service.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/service.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/service.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/hardware/huawei.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/hardware/huawei.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/hardware/huawei.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/hardware/illuvatar.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/hardware/illuvatar.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/hardware/illuvatar.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/hardware/nvidia.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/hardware/nvidia.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/hardware/nvidia.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/models/claude.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/claude.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/claude.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/models/huggingface.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/huggingface.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/huggingface.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/models/moonshot.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/moonshot.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/moonshot.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/models/openai.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/openai.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/openai.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/models/zhipuai.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/zhipuai.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/zhipuai.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/aispeech.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/aispeech.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/aispeech.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/alibaba.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/alibaba.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/alibaba.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/baichuan.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/baichuan.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/baichuan.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/baidu.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/baidu.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/baidu.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/bytedance.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/bytedance.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/bytedance.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/cloudwalk.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/cloudwalk.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/cloudwalk.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/hw99.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/hw99.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/hw99.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/iflytek.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/iflytek.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/iflytek.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/megvii.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/megvii.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/megvii.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/sensetime.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/sensetime.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/sensetime.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/tencent.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/tencent.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/tencent.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/tusimple.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/tusimple.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/tusimple.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/pioneers/unisound.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/pioneers/unisound.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/pioneers/unisound.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/personal/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/personal/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/personal/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/personal/accesstoken.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/personal/accesstoken.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/personal/accesstoken.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/personal/language.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/personal/language.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/personal/language.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/service/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/service/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/service/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/service/miner.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/service/miner.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/service/miner.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/service/name.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/service/name.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/service/name.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/service/sla.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/service/sla.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/service/sla.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/zestu/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/zestu/instance-on-off.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/instance-on-off.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/instance-on-off.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/zestu/instance.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/instance.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/instance.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/zestu/storage.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/storage.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/storage.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/api-call.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/api-call.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/api-call.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/user-guides/index.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/index.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/index.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/user-guides/bob-translate.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/bob-translate.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/bob-translate.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/user-guides/cherry-studio.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/cherry-studio.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/cherry-studio.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/user-guides/cline-in-vscode.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/cline-in-vscode.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/cline-in-vscode.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/models/user-guides/lobe-chat.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/models/user-guides/lobe-chat.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/models/user-guides/lobe-chat.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/open/models/china.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/open/models/china.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/open/models/china.html"/>
+    </url>
+    <url>
+        <loc>https://docs.d.run/en/zestu/deepseek.html</loc>
+        <lastmod>2025-02-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://docs.d.run/en/zestu/deepseek.html"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://docs.d.run/zestu/deepseek.html"/>
+    </url>
+</urlset>
